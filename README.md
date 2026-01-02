@@ -9,7 +9,6 @@ I’m always learning, building, and improving through hands-on projects and str
 
 🔗 Personal website: https://mohammad-aljumaah.me/
 
-💻 GitHub: https://github.com/mohammad-aljumaah
 
 
 ## 🌐 Socials:
