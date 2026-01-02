@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Mohammad Jassim Aljumaah, a multi-disciplinary developer with a strong passion for building things — from full-stack web apps to hardware projects and smart systems.<br><br>I develop complete solutions that combine:<br><br>Backend development (Flask, Python, SQL, APIs)<br><br>Frontend & Mobile (HTML, CSS, JS, React Native)<br><br>Cybersecurity principles (secure authentication, best practices)<br><br>Embedded systems & electronics (Arduino, ESP32, sensors, IoT)<br><br>I love solving complex problems, learning fast, and creating tools that help people — whether it's a math-learning platform, a mood-tracking app, unit converters, or microcontroller devices.<br>I aim to build real products, grow my skills, and innovate in both software and hardware.
+I’m a software developer focused on full-stack web and mobile development, with additional experience in cybersecurity fundamentals and IoT systems. I enjoy building practical, reliable software and understanding how systems work end to end — from backend logic to real-world deployment.
+
+I’ve worked on full-stack projects involving authentication, databases, and user-focused applications, and I’m comfortable working across different parts of the stack. I also explore security concepts and connected devices to better understand how modern systems interact and how to design them responsibly.
+
+I’m always learning, building, and improving through hands-on projects and structured programs. I’m interested in opportunities that allow me to grow as a developer, collaborate with others, and work on meaningful technical challenges.
+
+🔗 Personal website: https://mohammad-aljumaah.me/
+💻 GitHub: https://github.com/mohammad-aljumaah
 
 
 ## 🌐 Socials:
