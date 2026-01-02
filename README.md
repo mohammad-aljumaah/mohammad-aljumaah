@@ -7,7 +7,7 @@ I’ve worked on full-stack projects involving authentication, databases, and us
 
 I’m always learning, building, and improving through hands-on projects and structured programs. I’m interested in opportunities that allow me to grow as a developer, collaborate with others, and work on meaningful technical challenges.
 
-🔗 Personal website: https://mohammad-aljumaah.me/
+🔗 Personal website: [mohammad-aljumaah.me](https://mohammad-aljumaah.me/)
 
 
 
