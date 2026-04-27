@@ -1,11 +1,16 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a software developer focused on full-stack web and mobile development, with additional experience in cybersecurity fundamentals and IoT systems. I enjoy building practical, reliable software and understanding how systems work end to end — from backend logic to real-world deployment.
+I'm a self-taught Software Engineer based in Kuwait, specialising in backend systems, distributed architecture, and full-stack development. Over the past 3+ years I have built a technical foundation that spans Python, Go, microservices, cloud infrastructure, cybersecurity, and IoT — validated by 15+ certifications from institutions including Harvard, Google, IBM, and the University of Michigan. What drives me is not the credential itself, but the depth of understanding behind it. I go into every subject until I genuinely own it.
 
-I’ve worked on full-stack projects involving authentication, databases, and user-focused applications, and I’m comfortable working across different parts of the stack. I also explore security concepts and connected devices to better understand how modern systems interact and how to design them responsibly.
+I chose the self-taught path deliberately. No degree, no shortcuts — just structured, relentless learning and hands-on building. That decision has shaped how I think:
+I read documentation critically, I question outputs, and I hold my own work to a high standard. Senior engineers and bootcamp peers who have worked alongside me have 
+consistently noted that my skills and engineering instincts exceed what they would expect from someone at my stage. I take that seriously, and it keeps me pushing 
+further.
 
-I’m always learning, building, and improving through hands-on projects and structured programs. I’m interested in opportunities that allow me to grow as a developer, collaborate with others, and work on meaningful technical challenges.
+Beyond the technical work, I am focused on building a professional identity that reflects who I am — a developer who cares about craft, precision, and continuous growth. 
+I am open to opportunities in backend engineering, AI training and evaluation, cybersecurity, and full-stack development, as well as collaborations with people who build
+things that matter. If that sounds like you, I would be glad to connect.
 
 🔗 Personal website: [mohammad-aljumaah.me](https://mohammad-aljumaah.me/)
 
